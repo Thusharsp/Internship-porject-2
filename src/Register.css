@@ -1,0 +1,72 @@
+button {
+  background-color:#16a085;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 70%;
+  opacity: 0.9;
+  font-size:16px;
+  font-family: Montserrat,Arial, Helvetica, sans-serif;
+  border-radius:10px;
+  margin-left: 20px;
+}
+
+button:hover {
+  opacity:1;
+}
+
+.form{
+  border-radius: 5px;
+  width: 550px;
+  margin: 20px auto;
+  padding: 0px;
+  margin-left: 950px;
+}
+
+.form > *{
+  padding: 15px;
+}
+
+.form__label{
+  padding-left: 0px;
+  width: 40%;
+  color:#0e493d;
+}
+
+.form_input{
+  width: 90%;
+}
+h2{
+  padding-left: 950px;
+  font-size: 35px;
+  color:#0e493d;
+}
+
+.Register{
+  height:800px;
+  background-size: cover; 
+  width: 99%;
+  margin-bottom:0px;
+  background-image: url("./Images/bck.jpg");
+}
+
+input{
+  width: 70%;
+}
+h2{
+  padding-top: 5mm;
+}
+.sig{
+  text-decoration: none;
+  color: white;
+}
+.lgh{
+  padding-top: 5mm;
+}
+
+label{
+  text-align: left;
+}
+

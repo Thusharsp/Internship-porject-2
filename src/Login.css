@@ -1,0 +1,84 @@
+
+
+button {
+    background-color:#16a085;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 78%;
+    opacity: 0.9;
+    font-size:16px;
+    font-family: Montserrat,Arial, Helvetica, sans-serif;
+    border-radius:10px;
+  }
+  
+  button:hover {
+    opacity:1;
+  }
+  
+  .form{
+    border-radius: 5px;
+    width: 550px;
+    margin: 80px auto;
+    padding: 90px;
+    border-radius: 50px;
+    background-color:#f1f6f7;
+    margin-left: 400px;
+  }
+
+  .form > *{
+    padding: 15px;
+    
+  }
+  
+  .form__label{
+   
+    width: 50%;
+    color:#0e493d;
+  }
+  
+  .form_input{
+    width: 90%;
+  }
+
+
+  h2{
+   
+    margin-top: 30px;
+    font-size: 50px;
+    color:#0e493d;
+  }
+
+  .Login{
+    height:1000px;
+    background-size: cover; 
+    width: 100%;
+    margin-bottom:0px;
+    padding:0px;    
+    background-image: url("./Images/bck2.jpg");
+}
+  
+  
+  input{
+    width: 70%;
+  }
+  h2{
+    padding-top: 5mm;
+  }
+  .sig{
+    text-decoration: none;
+    color: white;
+  }
+  .lgh{
+    padding-top: 5mm;
+  }
+  
+  label{
+    text-align: left;
+  }
+  
+  .form:hover{
+    background-color: #adb0b0;
+  }
